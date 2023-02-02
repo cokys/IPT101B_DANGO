@@ -9,7 +9,7 @@ struggle is real!
 
 - [@cokys](https://github.com/cokys)
 
-##Sample code
+## Sample code
 
 ```c
 printf("Hello World!");
