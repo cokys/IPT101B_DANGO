@@ -14,7 +14,3 @@ struggle is real!
 ```c
 printf("Hello World!");
 ```
-
-## How to install
-
-- Step 1: Download zip file or use git clone
