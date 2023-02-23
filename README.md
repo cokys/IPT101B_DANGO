@@ -19,3 +19,7 @@ commit 2
 
 hi
 hello
+
+#NEW FEATURE 
+-add to cart
+-checkout
